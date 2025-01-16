@@ -96,10 +96,6 @@ Contributions are welcome! If you find a bug or have a feature request, feel fre
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 - Inspired by the love of math and programming.
